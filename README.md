@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cemal Nadir Gorgorgil</h1>
+<h1 align="center">Hi 👋, I'm Cemal Nadir</h1>
 <h3 align="center">A Passionate Full Stack Developer From Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemal-nadir&label=Profile%20views&color=0e75b6&style=flat" alt="cemal-nadir" /> </p>
